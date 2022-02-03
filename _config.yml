@@ -1,1 +1,3 @@
 remote_theme: pmarsceill/just-the-docs
+kramdown:
+  parse_block_html: true
