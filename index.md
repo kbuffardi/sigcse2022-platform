@@ -12,25 +12,35 @@ This presentation page is available at
 and its source is available on
 [GitHub](https://github.com/kbuffardi/sigcse2022-platform/).
 
-Full Paper
-----------
-
-The full paper is available via ACM Digital library *(link coming soon)*
-
-To cite this paper, use the following reference in your bibliography:
-
-> ACM bibliographic entry coming soon
-
-Or import the following *BibTeX* reference:
-
-    % BibTeX reference coming soon
-
 Preface
 =======
 
-What motivated the study?
+-   There are ongoing efforts to broaden participation in computing
+-   Recommendations highlight a need for teaching computing in ways that
+    are [relevant and meaningful to broader
+    audiences](https://doi.org/10.1145/3502870.3506568)
+-   Observed students’ inclination to seek lessons via YouTube, with
+    mixed results
+    -   There are some good amateur tutorials on many programming
+        essentials
+    -   Videos tended to use the same contexts as often seen in
+        traditional CS classes (e.g. tip calculators, puzzles/games,
+        bowling scores, etc.)
+    -   Some propogated bad practices (e.g. every loop being
+        `while(true)`)
+    -   Students often passively watched videos, did not immediately
+        apply the practices
+-   Our Previous research on students’ [interests](../interests/)
+    indicated significant discrepancies in some areas of students’
+    interests, especially by gender:
+    -   **Games** - Majority 68% vs Minority 36% (*χ*<sup>2</sup>=5.50,
+        df=1, p&lt;.05)
+    -   **Robots/microcontrollers/electronics** Majority 36% vs Minority
+        14% (*χ*<sup>2</sup>=4.87,df=1, p&lt;.05)
 
-Previous research on students’ [interests](../interests/)
+**We wanted to provide students with new perspectives for applications
+of coding fundamentals, while also facilitating practice of those
+skills.**
 
 Developing Learning Materials
 =============================
@@ -91,3 +101,16 @@ Lab, an initiative of California Governor’s Office of Planning and
 Research. Any opinions, findings, and conclusions or recommendations
 expressed in this material are those of the author(s) and do not
 necessarily reflect the views of the Learning Lab.
+
+Full Paper
+==========
+
+The full paper is available via ACM Digital library *(link coming soon)*
+
+To cite this paper, use the following reference in your bibliography:
+
+> ACM bibliographic entry coming soon
+
+Or import the following *BibTeX* reference:
+
+    % BibTeX reference coming soon
