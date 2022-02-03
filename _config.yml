@@ -2,3 +2,6 @@ remote_theme: pmarsceill/just-the-docs
 title: Learn by Failure
 description: Codewit.us: A Platform for Diverse Perspectives in Coding
 url: "https://learnbyfailure.com" # the base hostname & protocol for your site, e.g. http://example.com
+search_enabled: true
+kramdown:
+  parse_block_html: true
