@@ -38,9 +38,9 @@ Preface
     -   **Robots/microcontrollers/electronics** Majority 36% vs Minority
         14% (*χ*<sup>2</sup>=4.87,df=1, p&lt;.05)
 
-**We wanted to provide students with new perspectives for applications
-of coding fundamentals, while also facilitating hands-on learning of
-those skills.**
+**We want to provide students with new perspectives and applications of
+coding fundamentals, while also facilitating hands-on learning of those
+skills.**
 
 Developing Learning Materials
 =============================
@@ -50,10 +50,12 @@ learning outcomes](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy) by
 engaging students in active learning.
 
 We also want materials to be **student-driven** to share their unique
-perspectives. \* [Chico State](https://csuchico.edu) and [UC Santa
-Barbara](https://ucsb.edu) are **Hispanic-Serving Institutions** with
-unique opportunity to share perspectives of historically marginalized
-students
+perspectives.
+
+-   [Chico State](https://csuchico.edu) and [UC Santa
+    Barbara](https://ucsb.edu) are **Hispanic-Serving Institutions**
+-   Unique opportunity to share perspectives of historically
+    marginalized students
 
 Inclusive Video Demonstrations
 ------------------------------
@@ -62,10 +64,15 @@ We hired students to share brief demonstrations of how they would relate
 CS1 topics to *their lives and interests*.
 
 However, the *Covid-19 pandemic* forced us to record from home. We
-purchased HD webcams, USB microphones, and ring lights for each student
-(under $200 per student). They recorded using
-[OBS](https://obsproject.com/) to capture their [Replit
-IDE](https://repl.it) with a picture-in-picture video of their faces.
+provided students with:
+
+-   1080p HD webcams,
+-   USB microphones,
+-   Ring lights
+-   Cost approaching $200 per student
+-   Students recorded using [OBS](https://obsproject.com/) to capture
+    their [Replit IDE](https://repl.it) with a picture-in-picture video
+    of their faces.
 
 ### Examples
 
@@ -124,6 +131,8 @@ Preliminary Investigation
         LMS after the video.
 -   Students answered Pre/Post semester surveys to guage **affective
     outcomes**
+    -   Adopted instruments to measure general affect (i.e. sense of
+        belonging) and self-efficacy specific to C++ skills
     -   Post survey also gathered students’ self-reported usage of
         videos and practice
 
@@ -140,8 +149,8 @@ Compared to the control, we found students with the materials available
 ![Box plots comparing pre and post scores for affective outcomes. The
 intervention shows a larger gain than the control.](affective.png)
 
-However, we found no significant difference in students’ confidence with
-specific C++ skills
+However, we found no significant difference in students’ self-efficacy
+with specific C++ skills
 
 -   Control (*Δ* M=2.08, sd=1.29)
 -   Intervention (*Δ* M=2.26, sd=1.18)
@@ -181,6 +190,17 @@ Lab, an initiative of California Governor’s Office of Planning and
 Research. Any opinions, findings, and conclusions or recommendations
 expressed in this material are those of the author(s) and do not
 necessarily reflect the views of the Learning Lab.
+
+Particular thanks to our students who have shared their valuable
+insights in producing videos to date:
+
+-   Johanna Alvarado
+-   Juan Aguirre-Ayala
+-   Andrea Anez
+-   Phinease Francis
+-   Jason Gonzalez
+-   Jessica Martinez
+-   Destiny Rogers
 
 Full Paper
 ==========
