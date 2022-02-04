@@ -78,7 +78,7 @@ Videos are made available via [our YouTube Channel](https://www.youtube.com/chan
 
 We developed small C++ coding problems that emphasized concepts that corresponded with each video. We used [CodeWorkout](https://codeworkout.cs.vt.edu/) to host the problems in an interactive environment.
 
-All our C++ exercises are public on CodeWorkout.
+All our [C++ exercises are public on CodeWorkout](https://codeworkout.cs.vt.edu/gym/exercises/search?utf8=%E2%9C%93&search=c%2B%2B)
 
 # Preliminary Investigation
 
@@ -94,15 +94,15 @@ All our C++ exercises are public on CodeWorkout.
 # Insights
 
 Compared to the control, we found students with the materials available **showed significantly greater gains in affective outcomes**
- * $\Delta$ Control (M=0.18, sd=0.47) 
- * $\Delta$ Intervention (M=0.38, sd=0.47)
+ * Control ($\Delta$ M=0.18, sd=0.47) 
+ * Intervention ($\Delta$ M=0.38, sd=0.47)
  * Wilcoxon test rejects null hypothesis (p<.05)
 
 ![Box plots comparing pre and post scores for affective outcomes. The intervention shows a larger gain than the control.](affective.png)
 
 However, we found no significant difference in students' confidence with specific C++ skills
- * $\Delta$ Control (M=2.08, sd=1.29) 
- * $\Delta$ Intervention (M=2.26, sd=1.18) 
+ * Control ($\Delta$ M=2.08, sd=1.29) 
+ * Intervention ($\Delta$ M=2.26, sd=1.18) 
  * Wilcoxon test found no significant differences (p=.247)
  
 We also investigated students' voluntary usage of the videos and practice problems:
