@@ -93,6 +93,9 @@ camera in higher quality video.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YGj-HgRFOk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 <!--/html_preserve-->
+Videos are made available via [our YouTube
+Channel](https://www.youtube.com/channel/UCP8J1udzFAdZqdaSUPlAsZg/videos)
+
 Interactive Drill-and-Practice
 ------------------------------
 
@@ -100,6 +103,8 @@ We developed small C++ coding problems that emphasized concepts that
 corresponded with each video. We used
 [CodeWorkout](https://codeworkout.cs.vt.edu/) to host the problems in an
 interactive environment.
+
+All our C++ exercises are public on CodeWorkout.
 
 Preliminary Investigation
 =========================
@@ -116,9 +121,47 @@ Preliminary Investigation
     -   Sets of problems on the same concept were organized as
         ‘workouts’ and direct links to the workouts were provided in the
         LMS after the video.
+-   Students answered Pre/Post semester surveys to guage **affective
+    outcomes**
+    -   Post survey also gathered students’ self-reported usage of
+        videos and practice
 
 Insights
 ========
+
+Compared to the control, we found students with the materials available
+**showed significantly greater gains in affective outcomes** \* *Δ*
+Control (M=0.18, sd=0.47) \* *Δ* Intervention (M=0.38, sd=0.47) \*
+Wilcoxon test rejects null hypothesis (p&lt;.05)
+
+![Box plots comparing pre and post scores for affective outcomes. The
+intervention shows a larger gain than the control.](affective.png)
+
+However, we found no significant difference in students’ confidence with
+specific C++ skills \* *Δ* Control (M=2.08, sd=1.29) \* *Δ* Intervention
+(M=2.26, sd=1.18) \* Wilcoxon test found no significant differences
+(p=.247)
+
+We also investigated students’ voluntary usage of the videos and
+practice problems:
+
+![Bar charts show the majority of students watched videos either weekly
+or more than once per week, while the majority of students practiced
+either on a monthly basis or less often](frequency.png)
+
+Platform Development
+====================
+
+We decided to develop a software platform to give our students a
+figurative platform to share their perspectives.
+
+[Codewit.us](https://codewit.us) integrates the brief video tutorials
+with corresponding programming problems. \* CodeWorkout maintained as
+the engine for practice \* Codewit.us is *Free and Open Source Software*
+but also hosted for your use, free of charge
+
+We have piloted Codewit.us as a supplementary source for students. *Stay
+tuned for new findings…*
 
 Acknowledgements
 ================
