@@ -67,11 +67,15 @@ purchased HD webcams, USB microphones, and ring lights for each student
 [OBS](https://obsproject.com/) to capture their [Replit
 IDE](https://repl.it) with a picture-in-picture video of their faces.
 
-### Example: Destiny demonstrates vectors to maintain a music playlist\*\* <!--html_preserve--> <iframe width="560" height="315" src="https://www.youtube.com/embed/jxih9YOA5aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <!--/html_preserve-->
+### Examples
 
-### Example: Destiny demonstrates vectors to maintain a music playlist\*\* <!--html_preserve--> <iframe width="560" height="315" src="https://www.youtube.com/embed/jxih9YOA5aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <!--/html_preserve-->
+**Destiny demonstrates vectors to maintain a music playlist**
 
-### Example: Jessica uses primitive data types to represent soccer player data
+<!--html_preserve-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jxih9YOA5aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<!--/html_preserve-->
+**Jessica uses primitive data types to represent soccer player data**
 
 <!--html_preserve-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BVK6rCz_7SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
@@ -81,7 +85,9 @@ As restrictions lifted, we began recording using campus studios
 featuring transparent lightboards which allow the student to face the
 camera in higher quality video.
 
-### Example: Andrea illustrates pointers on a lightboard
+### Example
+
+**Andrea illustrates pointers on a lightboard**
 
 <!--html_preserve-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YGj-HgRFOk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
