@@ -131,17 +131,21 @@ Insights
 ========
 
 Compared to the control, we found students with the materials available
-**showed significantly greater gains in affective outcomes** \* Control
-(*Δ* M=0.18, sd=0.47) \* Intervention (*Δ* M=0.38, sd=0.47) \* Wilcoxon
-test rejects null hypothesis (p&lt;.05)
+**showed significantly greater gains in affective outcomes**
+
+-   Control (*Δ* M=0.18, sd=0.47)
+-   Intervention (*Δ* M=0.38, sd=0.47)
+-   Wilcoxon test rejects null hypothesis (p&lt;.05)
 
 ![Box plots comparing pre and post scores for affective outcomes. The
 intervention shows a larger gain than the control.](affective.png)
 
 However, we found no significant difference in students’ confidence with
-specific C++ skills \* Control (*Δ* M=2.08, sd=1.29) \* Intervention
-(*Δ* M=2.26, sd=1.18) \* Wilcoxon test found no significant differences
-(p=.247)
+specific C++ skills
+
+-   Control (*Δ* M=2.08, sd=1.29)
+-   Intervention (*Δ* M=2.26, sd=1.18)
+-   Wilcoxon test found no significant differences (p=.247)
 
 We also investigated students’ voluntary usage of the videos and
 practice problems:
@@ -156,10 +160,13 @@ Platform Development
 We decided to develop a software platform to give our students a
 figurative platform to share their perspectives.
 
-[Codewit.us](https://codewit.us) integrates the brief video tutorials
-with corresponding programming problems. \* CodeWorkout maintained as
-the engine for practice \* Codewit.us is *Free and Open Source Software*
-but also hosted for your use, free of charge
+[Codewit.us](https://codewit.us) integrates the [brief video tutorials
+with corresponding programming
+problems](https://codewit.us/tutorial/variables_soccer/).
+
+-   CodeWorkout maintained as the engine for practice
+-   Codewit.us is *Free and Open Source Software* but also hosted for
+    your use, free of charge
 
 We have piloted Codewit.us as a supplementary source for students. *Stay
 tuned for new findings…*
