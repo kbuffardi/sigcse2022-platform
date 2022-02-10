@@ -174,8 +174,9 @@ with corresponding programming
 problems](https://codewit.us/tutorial/variables_soccer/).
 
 -   CodeWorkout maintained as the engine for practice
--   Codewit.us is *Free and Open Source Software* but also hosted for
-    your use, free of charge
+-   Codewit.us is *Free and Open Source Software* [on
+    GitHub](https://github.com/kbuffardi/codewitus/) but also [hosted
+    for your use, free of charge](https://codewit.us/)
 
 We have piloted Codewit.us as a supplementary source for students. *Stay
 tuned for new findings…*
