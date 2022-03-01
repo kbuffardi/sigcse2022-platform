@@ -148,17 +148,31 @@ Particular thanks to our students who have shared their valuable insights in pro
 
 # Full Paper
 
-The full paper is available via ACM Digital library *(link coming soon)*
+The full paper is available via [ACM Digital library](https://dl.acm.org/doi/abs/10.1145/3478431.3499398)
 
 To cite this paper, use the following reference in your bibliography:
 
->
-> ACM bibliographic entry coming soon
->
+> Kevin Buffardi, Elena Harris, and Richert Wang. 2022. Codewit.us: A Platform for Diverse Perspectives in Coding. In Proceedings of the 53rd ACM Technical Symposium V.1 on Computer Science Education (SIGCSE 2022). Association for Computing Machinery, New York, NY, USA, 780–786. DOI:https://doi.org/10.1145/3478431.3499398
 
 Or import the following *BibTeX* reference:
 
 ```
-% BibTeX reference coming soon
+@inproceedings{buffardi-2022Codewit.us,
+author = {Buffardi, Kevin and Harris, Elena and Wang, Richert},
+title = {Codewit.Us: A Platform for Diverse Perspectives in Coding},
+year = {2022},
+isbn = {9781450390705},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3478431.3499398},
+doi = {10.1145/3478431.3499398},
+abstract = {To broaden participation in computing, learning materials should relate to a diverse spectrum of student perspectives. This paper introduces Codewit.us, an online platform for under-represented minority (URM) students in computing to share examples of how coding fundamentals can be demonstrated in contexts relevant to their own lives. Codewit.us features brief video demonstrations by Black, Indigenous, and People of Color (BIPOC) and female students, paired with interactive drill-and-practice coding problems on matching programming concepts.This experience report describes the software and pedagogical design for Codewit.us. The report includes preliminary findings from our investigation into the diversity of students' interests, usage of Codewit.us videos and practice problems, as well as students' affect and self-efficacy. A needs assessment found significant differences in certain interests associated with students' gender. Preliminary findings indicated greater improvements in students' affective outcomes in a course offering with the Codewit.us learning materials than in courses without them. The paper also discusses opportunities discovered for broadening participation in CS by relating coding to new perspectives seldom represented in introductory programming courses.},
+booktitle = {Proceedings of the 53rd ACM Technical Symposium V.1 on Computer Science Education},
+pages = {780–786},
+numpages = {7},
+keywords = {coding, drill-and-practice, under-represented minorities (urm), video tutorial, race, self-efficacy, broadening participation, gender, problets},
+location = {Providence, RI, USA},
+series = {SIGCSE 2022}
+}
 ```
 
