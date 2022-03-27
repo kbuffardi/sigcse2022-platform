@@ -152,7 +152,7 @@ The full paper is available via [ACM Digital library](https://dl.acm.org/doi/abs
 
 To cite this paper, use the following reference in your bibliography:
 
-> Kevin Buffardi, Elena Harris, and Richert Wang. 2022. Codewit.us: A Platform for Diverse Perspectives in Coding. In Proceedings of the 53rd ACM Technical Symposium V.1 on Computer Science Education (SIGCSE 2022). Association for Computing Machinery, New York, NY, USA, 780–786. DOI:https://doi.org/10.1145/3478431.3499398
+> Kevin Buffardi, Elena Harris, and Richert Wang. 2022. Codewit.us: A Platform for Diverse Perspectives in Coding. In Proceedings of the 53rd ACM Technical Symposium V.1 on Computer Science Education (SIGCSE 2022). Association for Computing Machinery, New York, NY, USA, 780–786. DOI: https://doi.org/10.1145/3478431.3499398
 
 Or import the following *BibTeX* reference:
 

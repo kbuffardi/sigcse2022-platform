@@ -82,12 +82,14 @@ provided students with:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jxih9YOA5aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 <!--/html_preserve-->
+
 **Jessica uses primitive data types to represent soccer player data**
 
 <!--html_preserve-->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BVK6rCz_7SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 <!--/html_preserve-->
+
 As restrictions lifted, we began recording using campus studios
 featuring transparent lightboards which allow the student to face the
 camera in higher quality video.
@@ -100,6 +102,7 @@ camera in higher quality video.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YGj-HgRFOk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 <!--/html_preserve-->
+
 Videos are made available via [our YouTube
 Channel](https://www.youtube.com/channel/UCP8J1udzFAdZqdaSUPlAsZg/videos)
 
@@ -215,8 +218,8 @@ To cite this paper, use the following reference in your bibliography:
 > Platform for Diverse Perspectives in Coding. In Proceedings of the
 > 53rd ACM Technical Symposium V.1 on Computer Science Education (SIGCSE
 > 2022). Association for Computing Machinery, New York, NY, USA,
-> 780–786.
-> <a href="DOI:https://doi.org/10.1145/3478431.3499398" class="uri">DOI:https://doi.org/10.1145/3478431.3499398</a>
+> 780–786. DOI:
+> <a href="https://doi.org/10.1145/3478431.3499398" class="uri">https://doi.org/10.1145/3478431.3499398</a>
 
 Or import the following *BibTeX* reference:
 
